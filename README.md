@@ -115,7 +115,3 @@ Built as a university database project for learning <b>DBMS concepts, relational
 </p>
 
 <hr>
-
-<p align="center">
-  ⭐ If you like this project, give it a star!
-</p>
